@@ -14,4 +14,4 @@ https://github.com/amplab/datascience-sp14/blob/master/lab7/mldata/mnist-origina
 
 Put the mat file at
 
-_your WinPython root_\settings\scikit_learn_data\mldata
+_your Python root_\settings\scikit_learn_data\mldata
